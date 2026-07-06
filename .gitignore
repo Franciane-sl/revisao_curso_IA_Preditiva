@@ -1,0 +1,22 @@
+# --- Ambientes Virtuais & IDEs ---
+venv_objefix/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.idea/
+.history/
+.venv
+.venv/
+env/
+ENV/
+.env/
+*$py.class
+.secrets
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Logs ---
+*.log
